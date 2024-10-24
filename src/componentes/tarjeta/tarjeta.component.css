@@ -1,0 +1,24 @@
+.producto {
+  border: 1px solid #ccc;
+  padding: 16px;
+  border-radius: 8px;
+  max-width: 300px;
+  margin: 16px 0;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.producto h2 {
+  font-size: 1.5em;
+  margin-bottom: 8px;
+}
+
+.producto p {
+  margin: 8px 0;
+}
+
+.producto .precio {
+  font-size: 1.2em;
+  color: #e91e63;
+  font-weight: bold;
+}
